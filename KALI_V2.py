@@ -206,7 +206,6 @@ while True:
             elif cmd.startswith("hydra"):
                 Hydra()
             
-            # NEW COMMANDS START HERE
             elif cmd == "ping":
                 host = input("Enter host to ping: ").strip()
                 print(f"PING {host} (127.0.0.1) 56(84) bytes of data.")
