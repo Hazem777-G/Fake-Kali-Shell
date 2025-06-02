@@ -1,8 +1,8 @@
 #This file is Safe
-# It's for educational purposes
-#  It's a simulation for kali Linux Terminal
-#   Still underwork!
-#    Under Testing!
+#It's for educational purposes
+#It's a simulation for kali Linux Terminal
+#Still underwork!
+#Under Testing!
 import sys
 import time
 import os
